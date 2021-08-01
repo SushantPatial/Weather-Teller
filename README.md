@@ -1,4 +1,4 @@
-# Weather-Teller
+# Weather Teller
 
 This website tells you the temperature of the entered city.
 
