@@ -3,7 +3,6 @@
 This website tells you the temperature of the entered city.
 
 #### Languages and Interface Used:-
-<br>
 Front End: HTML, CSS, Bootstrap
 <br>
 Back End: PHP, API
