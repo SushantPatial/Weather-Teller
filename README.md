@@ -1,8 +1,8 @@
 # Weather Teller
 
-This website tells you the temperature of the entered city.
+<b>This website tells you the temperature of the entered city.</b>
 
-#### Languages and Interface Used:-
+### Languages and Interface Used
 Front End: HTML, CSS, Bootstrap
 <br>
 Back End: PHP, API
