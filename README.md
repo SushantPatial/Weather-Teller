@@ -5,7 +5,7 @@
 ### Languages and Interface Used
 Front End: HTML, CSS, Bootstrap
 <br>
-Back End: PHP, API
+Back End: PHP, Open weather map API
 
 ### Try It Yourself!
 
